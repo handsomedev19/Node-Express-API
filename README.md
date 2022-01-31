@@ -37,7 +37,7 @@ In total, there are five APIs
 
 '/post'     [DELETE]    : delete a post
 
-'post/avg'  [GET]       : get an average rating of the post
+'/post/avg'  [GET]       : get an average rating of the post
 
 
 ## validatation function
