@@ -1,7 +1,6 @@
-### TEST ExpressJS API
-
-# NOTE: This is for the understanding of code pattern.
-# Author: handsomedev19
+###  ExpressJS API
+#### NOTE: This is for the understanding of code pattern.
+#### Author: handsomedev19
 
 ## prerequisite
 1. Node v7+
@@ -28,12 +27,17 @@ You can see "Database connected!" on the terminal
 ## API list
 In total, there are five APIs
 
-GET '/'                 : check if the server is running well
-GET '/post'             : get all the posts
-POST '/post'            : add new post
-PUT 'post'              : edit a post
-DELETE 'post'           : delete a post
-GET 'post/avg'          : get average rating of post
+'/'         [GET]       : check if the server is running well
+
+'/post'     [GET]       : get all the posts
+
+'/post'     [POST]      : add a new post
+
+'/post'     [PUT]       : edit a post
+
+'/post'     [DELETE]    : delete a post
+
+'post/avg'  [GET]       : get an average rating of the post
 
 
 ## validatation function
