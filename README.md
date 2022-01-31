@@ -1,6 +1,6 @@
 ### TEST ExpressJS API
 
-# NOTE: This is made by me form scratch.
+# NOTE: This is for the understanding of code pattern.
 # Author: handsomedev19
 
 ## prerequisite
